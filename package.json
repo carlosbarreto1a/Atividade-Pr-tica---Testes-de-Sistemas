@@ -1,0 +1,17 @@
+{
+  "name": "doguito-petshop-tests",
+  "version": "1.0.0",
+  "description": "Testes unitários e de integração para o sistema Doguito PetShop com Jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
